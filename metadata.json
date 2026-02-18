@@ -1,0 +1,14 @@
+{
+  "name": "GIGAVibe",
+  "description": "Intelligent Global Arena: The ultimate super app for social media, messaging, e-commerce, AI creation, and fintech, empowering creators globally.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "permissions": [
+    "INTERNET",
+    "ACCESS_NETWORK_STATE",
+    "INSTALL_REFERRER"
+  ]
+}
